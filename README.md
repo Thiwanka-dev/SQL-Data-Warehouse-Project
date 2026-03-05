@@ -37,4 +37,5 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
+
 Hi there! I'm Thiwanka Madhusanka Alwis . I am a 3rd year undergraduate in Data Science at SLIIT with an interest in data analytics, data warehousing, and software development. I enjoy working with data-driven technologies and building practical projects to improve my technical skills.
